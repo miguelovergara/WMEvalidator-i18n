@@ -1,5 +1,5 @@
 /*
- * MX.js -- WME Validator Localization for Mexico
+ * CL.js -- WME Validator Localization for Chile
  * Copyright (C) 2026 @miguelovergara
  *
  * This file is part of WME Validator: https://github.com/WMEValidator/
@@ -19,7 +19,7 @@
  */
 
  /*************************************************************************
-  * This file falls back to ES (spainish) localization
+  * This file falls back to ES (spanish) localization
   *************************************************************************/
 
 ".country": "Chile",
